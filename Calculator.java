@@ -27,7 +27,7 @@ public class Calculator{
                 System.out.println("c:");
                 gamma = scan.nextInt();
             }
-            else if((operation == 1) || (operation ==2) || (operation ==3) || (operation ==4)){
+            else if((operation == 1) || (operation == 2) || (operation == 3) || (operation == 4)){
                 System.out.println("Enter the first number");
                 a = scan.nextInt();
                 System.out.println("Enter the second number");
